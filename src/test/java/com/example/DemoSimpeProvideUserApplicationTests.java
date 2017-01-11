@@ -11,6 +11,7 @@ public class DemoSimpeProvideUserApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("helloGit");
 	}
 
 }
